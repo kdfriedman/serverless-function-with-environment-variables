@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "netlify": "netlify",
+    "dev": "netlify dev"
   },
   "author": "kevin friedman",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "^3.17.2"
+  }
 }
