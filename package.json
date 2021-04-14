@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "netlify-cli": "^3.17.2"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
   }
 }
